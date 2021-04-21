@@ -1,23 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
+import ContactForm from './components/ContactForm';
+import ContactForm2 from './components/ContactForm2';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1 className="main-title">React Memo Form</h1>
+      <div className="form-container">
+        <ContactForm/>
+        <ContactForm2/>
+      </div>
     </div>
   );
 }
