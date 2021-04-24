@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-memo-form/static/css/main.a97db703.chunk.css",
+    "main.js": "/react-memo-form/static/js/main.f55a5b1a.chunk.js",
+    "main.js.map": "/react-memo-form/static/js/main.f55a5b1a.chunk.js.map",
+    "runtime-main.js": "/react-memo-form/static/js/runtime-main.6c9267c5.js",
+    "runtime-main.js.map": "/react-memo-form/static/js/runtime-main.6c9267c5.js.map",
+    "static/js/2.75498dc7.chunk.js": "/react-memo-form/static/js/2.75498dc7.chunk.js",
+    "static/js/2.75498dc7.chunk.js.map": "/react-memo-form/static/js/2.75498dc7.chunk.js.map",
+    "static/js/3.9aa9dc63.chunk.js": "/react-memo-form/static/js/3.9aa9dc63.chunk.js",
+    "static/js/3.9aa9dc63.chunk.js.map": "/react-memo-form/static/js/3.9aa9dc63.chunk.js.map",
+    "index.html": "/react-memo-form/index.html",
+    "static/css/main.a97db703.chunk.css.map": "/react-memo-form/static/css/main.a97db703.chunk.css.map",
+    "static/js/2.75498dc7.chunk.js.LICENSE.txt": "/react-memo-form/static/js/2.75498dc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c9267c5.js",
+    "static/js/2.75498dc7.chunk.js",
+    "static/css/main.a97db703.chunk.css",
+    "static/js/main.f55a5b1a.chunk.js"
+  ]
+}
