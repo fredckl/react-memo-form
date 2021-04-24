@@ -45,7 +45,7 @@ memoForm({
 });
 
 // Get the field name
-const fieldName = methods.getFieldName('contact.firstname'); // 'firstname'
+const fieldName = methods.getFieldName('firstname'); // 'contact.firstname'
 
 // Get the value of field
 const { firstname } = methods.getFormValues(['firstname']); // 'fred'
